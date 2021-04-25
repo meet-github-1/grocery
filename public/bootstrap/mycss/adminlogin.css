@@ -1,0 +1,25 @@
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  .row{
+      padding:16px;
+      display:flex;
+      justify-content:center;
+  }
+  .circle-icon{
+    color:lightskyblue;
+  }
+  .circle-icon-child{
+    color:lightblue;
+  }
